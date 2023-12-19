@@ -22,3 +22,16 @@
 ### :pushpin: Cu ajutorul functiei "Print" afisam in consola si alegem de la tastatura tipul operatiei pe care dorim sa o efectuam
 
 ### :pushpin: Cu ajutorul functiei "Input" afisam in consola si sciem de la tastatura numerele pe care asupra carora dorim sa aplicam opeartia aritmetica aleasa anterior.
+
+### :pushpin: Cu ajutorul conditionalului "If", "Elif" si "Else" executam operatiile aritmetice.
+
+##  In consola va fi afisat rezultatul 
+
+### :pushpin: In cazul in care dorim sa efectuam o alta operatie aritmetica vom alege acest lucru de la tastatura cu ajutorul functiei "Input" 
+    next_calculation = input("Doriti executarea unei noi operatii? (Da/Nu): ")
+            if next_calculation == "Nu":
+                break
+        else:
+            print("Ati introdus un numar invalid")
+
+
