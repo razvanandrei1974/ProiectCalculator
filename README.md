@@ -5,6 +5,7 @@
 ## Varianta de implementare : Principii OOP ( clase si obiecte )
 
 ### Nume fisier Python : calculator_simplu.py
+[calculator_simplu]
 
 ## Pasi :
 
