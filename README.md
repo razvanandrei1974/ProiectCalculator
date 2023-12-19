@@ -22,7 +22,8 @@
 + Initiem functia INMULTIRE :heavy_multiplication_x:
 - Initiem functia IMPARTIRE :heavy_division_sign:   
 
-        def adunare(x, y): #Initiem functia de adunare
+
+   def adunare(x, y): #Initiem functia de adunare
         return x + y
 
     def scadere(x, y): # initiem functia de impartire
