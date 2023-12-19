@@ -20,6 +20,11 @@
 - Initiem functia IMPARTIRE :heavy_division_sign:   
 
 ### :pushpin: Cu ajutorul functiei "Print" afisam in consola si alegem de la tastatura tipul operatiei pe care dorim sa o efectuam
+    print("Alegeti operatia :")
+    print("1.Adunare")
+    print("2.Scadere")
+    print("3.Inmultire")
+    print("4.Impartiere")
 
 ### :pushpin: Cu ajutorul functiei "Input" afisam in consola si sciem de la tastatura numerele pe care asupra carora dorim sa aplicam opeartia aritmetica aleasa anterior.
 
