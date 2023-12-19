@@ -14,6 +14,10 @@
 
     ### In cadrul clasei initiem functiile necesare operatiilor aritmetice  
 
+            ### Initiem functia ADUNARE :heavy_plus_sign:
+            ### Initiem functia SCADERE :heavy_minus_sign:
+            ### Initiem functia INMULTIRE :heavy_multiplication_sign:
+            ### Initiem functia IMPARTIRE :heavy_division_sign:
 
 
 
