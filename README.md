@@ -7,7 +7,7 @@
 ### Nume fisier Python : calculator_simplu.py
 [calculator_simplu](https://github.com/razvanandrei1974/ProiectCalculator/blob/ProiecteTA/calculator_simplu.py)
 
-## Pasi :
+## Rezolvare :
 
 ## 1. Initiem clasa Calculator
     class Calculator:
